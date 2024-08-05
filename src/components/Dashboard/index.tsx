@@ -1,3 +1,3 @@
 export function Dashboard() {
-  return "Dashboard";
+  return 'Dashboard';
 }
