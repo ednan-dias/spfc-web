@@ -1,7 +1,7 @@
-import { Dashboard } from './components/Dashboard';
+import { AppProvider } from './providers';
 
 function App() {
-  return <Dashboard />;
+  return <AppProvider />;
 }
 
 export default App;
